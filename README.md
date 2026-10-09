@@ -12,11 +12,6 @@ For decades, software engineering has followed a familiar path: `Requirements >>
 
 This session explores how the engineering abstraction is moving **from writing software to engineering the systems that produce software** — with interactive discussions, a career perspective, and live AI & coding-agent demonstrations.
 
-### Speaker
-
-**Vikram Singh** — Founder & Product Architect, [Zestifai Technologies](https://www.linkedin.com/in/vikrampsingh/)
-Technology entrepreneur and product architect with over two decades of experience in enterprise software engineering, product development, digital transformation, and AI.
-
 ---
 
 ## Topics Covered
@@ -52,19 +47,18 @@ The session included two live coding-agent demonstrations using [OpenCode](https
 
 - **Coding agent walkthrough** — watching an agent issue >> read repo >> edit >> run >> test >> observe >> patch.
 - **Build "MediaSync" with AI** — an interactive command-line tool for managing media backup/cleanup on Android devices (uses `adb` + `rsync`, with commands like `backup`, `backup --dry-run`, `cleanup`). Participants cloned the repo, built a feature, and opened PRs for review and merge.
-  - Demo repo: <https://github.com/vikrampsingh/vps-mediasync-cli>
+  - Demo repo: [https://github.com/vikrampsingh/vps-mediasync-cli](https://github.com/vikrampsingh/vps-mediasync-cli)
 
 ---
 
 ## Repository Contents
 
-| File/Directory | Description |
-|---|---|
+
+| File/Directory                                                      | Description                                              |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
 | `Slide deck for Industry Connect - CEG, Anna University - v1.5.pdf` | The main slide deck (30 slides) presented at the seminar |
-| `Seminar overview for MSc CS_Maths - CEG, Anna University v2.0.pdf` | Two-page seminar overview distributed to students |
-| `Invite for Industry Connect Seminar - CEG, Anna University.pdf` | The seminar invitation |
-| `Further readings/` | Referenced papers in QA-ready PDF form: [The End of Software Engineering](https://arxiv.org/html/2606.05608v1), [SWE-bench](https://arxiv.org/abs/2310.06770), [SWE-agent](https://arxiv.org/abs/2405.15793), and SWE-Milestone: Evaluating AI Agents on Continuous Software Evolution |
-| `pics/` | Images from the seminar |
+| `Seminar overview for MSc CS_Maths - CEG, Anna University v2.0.pdf` | Two-page seminar overview distributed to students        |
+| `Invite for Industry Connect Seminar - CEG, Anna University.pdf`    | The seminar invitation                                   |
 
 ---
 
@@ -80,6 +74,9 @@ The session included two live coding-agent demonstrations using [OpenCode](https
 
 ---
 
-## Speaker Contact
+### Speaker
 
-**Vikram Singh** — <https://www.linkedin.com/in/vikrampsingh/>
+**Vikram Singh** — Founder & Product Architect, Zestifai Technologies
+Technology entrepreneur and product architect with over two decades of experience in enterprise software engineering, product development, digital transformation, and AI.
+
+**Linkedin** — [https://www.linkedin.com/in/vikrampsingh/](https://www.linkedin.com/in/vikrampsingh/)
