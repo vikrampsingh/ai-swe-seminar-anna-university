@@ -74,7 +74,7 @@ The session included two live coding-agent demonstrations using [OpenCode](https
 
 ---
 
-### Speaker
+## Speaker
 
 **Vikram Singh** — Founder & Product Architect, Zestifai Technologies
 Technology entrepreneur and product architect with over two decades of experience in enterprise software engineering, product development, digital transformation, and AI.
